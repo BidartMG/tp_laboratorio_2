@@ -1,0 +1,14 @@
+C:\Users\Monica\Desktop\NOCHE DE POLISOMNOGRAFIA\Bidart.MonicaGraciela.2°A.TP3\ConsolaTest\obj\Debug\ConsolaTest.csprojResolveAssemblyReference.cache
+C:\Users\Monica\Desktop\NOCHE DE POLISOMNOGRAFIA\Bidart.MonicaGraciela.2°A.TP3\ConsolaTest\bin\Debug\ConsolaTest.exe.config
+C:\Users\Monica\Desktop\NOCHE DE POLISOMNOGRAFIA\Bidart.MonicaGraciela.2°A.TP3\ConsolaTest\bin\Debug\ConsolaTest.exe
+C:\Users\Monica\Desktop\NOCHE DE POLISOMNOGRAFIA\Bidart.MonicaGraciela.2°A.TP3\ConsolaTest\bin\Debug\ConsolaTest.pdb
+C:\Users\Monica\Desktop\NOCHE DE POLISOMNOGRAFIA\Bidart.MonicaGraciela.2°A.TP3\ConsolaTest\bin\Debug\Archivos.dll
+C:\Users\Monica\Desktop\NOCHE DE POLISOMNOGRAFIA\Bidart.MonicaGraciela.2°A.TP3\ConsolaTest\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Monica\Desktop\NOCHE DE POLISOMNOGRAFIA\Bidart.MonicaGraciela.2°A.TP3\ConsolaTest\bin\Debug\EntidadesInstanciables.dll
+C:\Users\Monica\Desktop\NOCHE DE POLISOMNOGRAFIA\Bidart.MonicaGraciela.2°A.TP3\ConsolaTest\bin\Debug\Excepciones.dll
+C:\Users\Monica\Desktop\NOCHE DE POLISOMNOGRAFIA\Bidart.MonicaGraciela.2°A.TP3\ConsolaTest\bin\Debug\Archivos.pdb
+C:\Users\Monica\Desktop\NOCHE DE POLISOMNOGRAFIA\Bidart.MonicaGraciela.2°A.TP3\ConsolaTest\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Monica\Desktop\NOCHE DE POLISOMNOGRAFIA\Bidart.MonicaGraciela.2°A.TP3\ConsolaTest\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\Monica\Desktop\NOCHE DE POLISOMNOGRAFIA\Bidart.MonicaGraciela.2°A.TP3\ConsolaTest\bin\Debug\Excepciones.pdb
+C:\Users\Monica\Desktop\NOCHE DE POLISOMNOGRAFIA\Bidart.MonicaGraciela.2°A.TP3\ConsolaTest\obj\Debug\ConsolaTest.exe
+C:\Users\Monica\Desktop\NOCHE DE POLISOMNOGRAFIA\Bidart.MonicaGraciela.2°A.TP3\ConsolaTest\obj\Debug\ConsolaTest.pdb
