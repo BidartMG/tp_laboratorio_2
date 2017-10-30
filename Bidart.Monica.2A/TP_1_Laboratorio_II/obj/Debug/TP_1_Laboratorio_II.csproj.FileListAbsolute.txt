@@ -1,0 +1,10 @@
+C:\Users\Monica\Desktop\C#\TP LABORATORIO II\Bidart.Monica.2A\TP_1_Laboratorio_II\bin\Debug\TP_1_Laboratorio_II.exe
+C:\Users\Monica\Desktop\C#\TP LABORATORIO II\Bidart.Monica.2A\TP_1_Laboratorio_II\bin\Debug\TP_1_Laboratorio_II.pdb
+C:\Users\Monica\Desktop\C#\TP LABORATORIO II\Bidart.Monica.2A\TP_1_Laboratorio_II\obj\Debug\TP_1_Laboratorio_II.csprojResolveAssemblyReference.cache
+C:\Users\Monica\Desktop\C#\TP LABORATORIO II\Bidart.Monica.2A\TP_1_Laboratorio_II\obj\Debug\TP_1_Laboratorio_II.Properties.Resources.resources
+C:\Users\Monica\Desktop\C#\TP LABORATORIO II\Bidart.Monica.2A\TP_1_Laboratorio_II\obj\Debug\TP_1_Laboratorio_II.csproj.GenerateResource.Cache
+C:\Users\Monica\Desktop\C#\TP LABORATORIO II\Bidart.Monica.2A\TP_1_Laboratorio_II\obj\Debug\TP_1_Laboratorio_II.exe
+C:\Users\Monica\Desktop\C#\TP LABORATORIO II\Bidart.Monica.2A\TP_1_Laboratorio_II\obj\Debug\TP_1_Laboratorio_II.pdb
+C:\Users\Monica\Desktop\C#\TP LABORATORIO II\Bidart.Monica.2A\TP_1_Laboratorio_II\bin\Debug\Clases.dll
+C:\Users\Monica\Desktop\C#\TP LABORATORIO II\Bidart.Monica.2A\TP_1_Laboratorio_II\bin\Debug\Clases.pdb
+C:\Users\Monica\Desktop\C#\TP LABORATORIO II\Bidart.Monica.2A\TP_1_Laboratorio_II\obj\Debug\TP_1_Laboratorio_II.Form1.resources

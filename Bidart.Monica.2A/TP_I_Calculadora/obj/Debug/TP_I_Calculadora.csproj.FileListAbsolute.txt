@@ -1,0 +1,5 @@
+C:\Users\Monica\Desktop\C#\TP LABORATORIO II\Bidart.Monica.2A\TP_I_Calculadora\obj\Debug\TP_I_Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Monica\Desktop\C#\TP LABORATORIO II\Bidart.Monica.2A\TP_I_Calculadora\bin\Debug\TP_I_Calculadora.exe
+C:\Users\Monica\Desktop\C#\TP LABORATORIO II\Bidart.Monica.2A\TP_I_Calculadora\bin\Debug\TP_I_Calculadora.pdb
+C:\Users\Monica\Desktop\C#\TP LABORATORIO II\Bidart.Monica.2A\TP_I_Calculadora\obj\Debug\TP_I_Calculadora.exe
+C:\Users\Monica\Desktop\C#\TP LABORATORIO II\Bidart.Monica.2A\TP_I_Calculadora\obj\Debug\TP_I_Calculadora.pdb

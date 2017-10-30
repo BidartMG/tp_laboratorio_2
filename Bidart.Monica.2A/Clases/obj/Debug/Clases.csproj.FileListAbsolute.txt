@@ -1,0 +1,4 @@
+C:\Users\Monica\Desktop\C#\TP LABORATORIO II\Bidart.Monica.2A\Clases\bin\Debug\Clases.dll
+C:\Users\Monica\Desktop\C#\TP LABORATORIO II\Bidart.Monica.2A\Clases\bin\Debug\Clases.pdb
+C:\Users\Monica\Desktop\C#\TP LABORATORIO II\Bidart.Monica.2A\Clases\obj\Debug\Clases.dll
+C:\Users\Monica\Desktop\C#\TP LABORATORIO II\Bidart.Monica.2A\Clases\obj\Debug\Clases.pdb

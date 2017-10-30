@@ -1,0 +1,8 @@
+C:\Users\Monica\Desktop\C#\TP LABORATORIO II\Bidart.Monica.2A\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Monica\Desktop\C#\TP LABORATORIO II\Bidart.Monica.2A\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Monica\Desktop\C#\TP LABORATORIO II\Bidart.Monica.2A\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Monica\Desktop\C#\TP LABORATORIO II\Bidart.Monica.2A\Calculadora\obj\Debug\Calculadora.FormCalculadora.resources
+C:\Users\Monica\Desktop\C#\TP LABORATORIO II\Bidart.Monica.2A\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Monica\Desktop\C#\TP LABORATORIO II\Bidart.Monica.2A\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Monica\Desktop\C#\TP LABORATORIO II\Bidart.Monica.2A\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Monica\Desktop\C#\TP LABORATORIO II\Bidart.Monica.2A\Calculadora\obj\Debug\Calculadora.pdb
